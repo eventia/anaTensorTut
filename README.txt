@@ -1,6 +1,6 @@
+ï»¿# README
 
-
-1. Anaconda prompt °ü¸®ÀÚ ¸ðµå ½ÇÇà
+1. Anaconda prompt ê´€ë¦¬ìž ëª¨ë“œ ì‹¤í–‰
 
 > activate tnsorflow
 
