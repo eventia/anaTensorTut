@@ -7,4 +7,5 @@
 > python
 
 > keras 와 kaggle 튜토리얼 
+> 
 
