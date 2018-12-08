@@ -6,6 +6,6 @@
 
 > python
 
-> keras 와 kaggle 튜토리얼 
+> keras & kaggle 튜토리얼 
 > 
 
